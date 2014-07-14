@@ -13,5 +13,7 @@ A player who hesitates or makes a mistake is eliminated from the gam.
 
 ###Fun ways to experiment with the Fizzbuzz program in irb
 require './lib/fizzbuzz.rb'
+
 1.upto(100).map{|number|  fizzbuzz(number)}.select{|element| element == 'fizz' }.count
+
 1.upto(100).each{|number| 'say #{ fizzbuzz(number)}'}
