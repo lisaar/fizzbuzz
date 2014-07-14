@@ -10,13 +10,13 @@ Scenario: divisible by three
 @2
 Scenario: divisible by five
 	Given number
-	When it is divisble by five
+	When it is divisible by five
 	Then returns 'buzz'
 
 @3
 Scenario: divisible by fifteen
 	Given number
-	When it is divisble by fifteen
+	When it is divisible by fifteen
 	Then returns 'fizzbuzz'
 
 @4
