@@ -1,5 +1,5 @@
 #Fizzbuzz
-===========
+---------
 This is program is designed to help people understand how the classic game fizzbuzz is played.
 
 ###Rules of the classical game
